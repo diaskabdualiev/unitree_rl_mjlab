@@ -53,7 +53,7 @@ conda activate unitree_rl_mjlab
 Clone the repository using Git:
 
 ```bash
-git clone ... # project URL to be added later
+git clone https://github.com/unitreerobotics/unitree_rl_mjlab.git
 ```
 
 ### 2.2 Install Dependencies

@@ -53,7 +53,7 @@ conda activate unitree_rl_mjlab
 通过 Git 克隆仓库：
 
 ```bash
-git clone ... # 暂时没有项目地址
+git clone https://github.com/unitreerobotics/unitree_rl_mjlab.git
 ```
 
 ### 2.2 安装依赖
